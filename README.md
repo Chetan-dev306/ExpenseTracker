@@ -98,6 +98,25 @@ Add screenshots of:
 * Dark Mode
 * Category-wise Analytics
 
+
+
+
+## Screenshots
+
+### Login Page
+![Login Page](Screenshots/Login.png)
+
+### Register Page
+![Register Page](Screenshots/Register.png)
+
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### Analytics Chart
+![Analytics Chart](Screenshots/Chart.png)
+
+
+
 ## Author
 
 **Chetan Bhivate**
