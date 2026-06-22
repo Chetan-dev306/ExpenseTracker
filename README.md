@@ -116,6 +116,14 @@ Add screenshots of:
 ![Analytics Chart](Screenshots/Chart.png)
 
 
+## Live Demo
+
+Frontend: https://YOUR-VERCEL-URL.vercel.app
+
+Backend API: https://expensetracker-backend-teim.onrender.com
+
+
+
 
 ## Author
 
